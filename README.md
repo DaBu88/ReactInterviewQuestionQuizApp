@@ -1,3 +1,10 @@
+# Project Description
+
+This is my first ReactJS project I am creating to learn the basics. The initial objective for this project is to create an app that will
+randomly output a question from a json formatted collection of data, allow the user to write a response, and show the correct answer for 
+the user to compare to their response to the question. The data in use for testing/development was taken from this indeed article: 
+https://www.indeed.com/hire/interview-questions/administrative-assistant?gclid=CjwKCAjwhNWZBhB_EiwAPzlhNpxTtIqJrSVK1W-SEwSmHRS6I02bKk_V6yWfZgE0oMEh24p5cTflMRoCAnYQAvD_BwE&aceid=&gclsrc=aw.ds
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
